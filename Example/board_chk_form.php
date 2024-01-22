@@ -28,7 +28,7 @@
 	        <div id="main_content">
 	      		<div id="login_box">
 		    		<div id="login_title">
-			    		<span>비밀 게시판을 이용하시려면<br>아이디와 비밀번호를 입력해주세요.</span>
+			    		<span>비밀 게시판을 이용하시려면<br>아이디와 비밀번호를 입력해주세요!!</span>
 		    		</div>
 		    		<div id="login_form">
 		          		<form  name="board_chk_form" method="post" action="board_chk.php?num=<?=$num?>&page=<?=$page?>">
